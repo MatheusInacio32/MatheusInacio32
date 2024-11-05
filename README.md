@@ -27,9 +27,10 @@ Sou um desenvolvedor Front End com experiência em HTML5, CSS3, JavaScript (ES6)
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 2px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio-Git&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" width="355" height="250" alt="Linguagens Mais Usadas" />
-  <img src="https://streak-stats.demolab.com?user=MatheusInacio-Git&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" width="495" height="250" alt="Estatísticas de Contribuição" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio-Git&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" style="width: 30vw; height: auto;" alt="Linguagens Mais Usadas" />
+  <img src="https://streak-stats.demolab.com?user=MatheusInacio-Git&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" style="width: 40vw; height: auto;" alt="Estatísticas de Contribuição" />
 </div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusInacio-Git/MatheusInacio-Git/output/snake.svg" alt="Snake animation" width="90%"/>
