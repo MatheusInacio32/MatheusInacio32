@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio-Git&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="250" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MatheusInacio-Git&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusInacio-Git&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&line=%5C" height="390" alt="activity-graph graph"  />
