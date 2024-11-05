@@ -17,6 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
 </div>
+<br clear="both">
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio-Git&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="250" alt="languages graph"  />
@@ -28,9 +29,7 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MatheusInacio-Git/MatheusInacio-Git/output/snake.svg" alt="Snake animation" />
-
 ###
-
 <br clear="both">
 
 
