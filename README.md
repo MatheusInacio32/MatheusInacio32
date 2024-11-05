@@ -3,7 +3,7 @@
   <img src="https://streak-stats.demolab.com?user=MatheusInacio-Git&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusInacio-Git&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph" />
 </div>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -25,4 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
 </div>
 
-###
