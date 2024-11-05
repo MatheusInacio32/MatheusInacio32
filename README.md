@@ -33,6 +33,4 @@ Sou um desenvolvedor Full Stack com experiência em HTML5, CSS3, JavaScript (ES6
 
 ## 🐍 Animação da Cobrinha
 
-<div align="center">
-  <img src="https://github.com/MatheusInacio-Git/MatheusInacio-Git/raw/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/MatheusInacio-Git/MatheusInacio-Git/output/snake.svg" alt="Snake animation" />
