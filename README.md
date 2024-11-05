@@ -7,7 +7,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/MatheusInacio-Git/MatheusInacio-Git/output/snake.svg" alt="Snake animation" />
 
 ###
