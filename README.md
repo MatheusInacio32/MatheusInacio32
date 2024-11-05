@@ -1,6 +1,6 @@
 # Olá, Eu sou o Matheus Inácio! 👋
 
-Sou um desenvolvedor Full Stack com experiência em HTML5, CSS3, JavaScript (ES6), React, Bootstrap, Python, Java, MySQL, e mais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho interesse em aprender e aplicar novas tecnologias para me diferenciar no mercado.
+Sou um desenvolvedor Front End com experiência em HTML5, CSS3, JavaScript (ES6), React, Bootstrap, Python, Java, MySQL, e mais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e tenho interesse em aprender e aplicar novas tecnologias para me diferenciar no mercado.
 
 ## 🔥 Minhas Habilidades Técnicas
 
@@ -30,7 +30,5 @@ Sou um desenvolvedor Full Stack com experiência em HTML5, CSS3, JavaScript (ES6
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio-Git&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="250" alt="Linguagens Mais Usadas" />
   <img src="https://streak-stats.demolab.com?user=MatheusInacio-Git&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="250" alt="Estatísticas de Contribuição" />
 </div>
-
-## 🐍 Animação da Cobrinha
 
 <img src="https://raw.githubusercontent.com/MatheusInacio-Git/MatheusInacio-Git/output/snake.svg" alt="Snake animation" />
