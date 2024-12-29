@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
 </div>
 
-**Olá, Eu sou o Matheus Inácio! 👋**
-
+## Olá, Eu sou o Matheus Inácio! 👋
+---
 Sou um desenvolvedor **Full Stack** especializado em criar soluções digitais inovadoras e escaláveis. 🚀  
 Atuo como freelancer na **Agência Astro**, desenvolvendo interfaces dinâmicas e experiências de usuário modernas. Minha stack principal inclui **React**, **Nest.js**, e práticas avançadas de **UX Design**. 💡  
 
@@ -31,15 +31,16 @@ Estou motivado a aplicar meus conhecimentos e crescer continuamente como profiss
 
 <div align="left">
   <a href="https://discord.com/users/559031886148534282" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
   <a href="mailto:mateusinacio32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-</div>  
+</div>
+
 
 ---
 
