@@ -13,9 +13,19 @@ Estou sempre em busca de aprendizado contínuo e adoro me desafiar com novas tec
 Cursando **Análise e Desenvolvimento de Sistemas** na **Unicesumar de Maringá**, com previsão de formatura em 2025.  
 Estou motivado a aplicar meus conhecimentos e crescer continuamente como profissional! 💼  
 
----
+<div align="left">
+  <a href="https://discord.com/users/559031886148534282" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="mailto:mateusinacio32@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>  
 
-## 🚀 Tecnologias e Ferramentas  
+---
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -43,23 +53,6 @@ Estou motivado a aplicar meus conhecimentos e crescer continuamente como profiss
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio32&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=true&order=2" style="width: 20vw; height: auto;" alt="Linguagens Mais Usadas" />
   <img src="https://streak-stats.demolab.com?user=MatheusInacio32&locale=pt-br&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5" style="width: 28vw; height: auto;" alt="streak graph" />
 </div>
-
----
-
-## 📞 Contato  
-<div align="left">
-  <a href="https://discord.com/users/559031886148534282" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:mateusinacio32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>  
-
----
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" alt="Snake animation" />
