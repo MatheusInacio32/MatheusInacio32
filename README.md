@@ -31,9 +31,8 @@ Sou um desenvolvedor Front End com experiência em HTML5, CSS3, JavaScript (ES6)
 </div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusInacio-Git/MatheusInacio-Git/output/snake.svg" alt="Snake animation" width="90%"/>
-</p>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" alt="Snake animation" />
 
 
 
