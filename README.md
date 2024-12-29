@@ -10,7 +10,7 @@ Sou apaixonado por aprendizado contínuo e adoro me desafiar com novas tecnologi
 Estou empolgado para aplicar meus conhecimentos e crescer ainda mais como profissional! 💼
 
 
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
