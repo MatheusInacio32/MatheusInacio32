@@ -29,7 +29,9 @@ Sou um desenvolvedor Front End com experiência em HTML5, CSS3, JavaScript (ES6)
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 2px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio32&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" style="width: 20vw; height: auto;" alt="Linguagens Mais Usadas" />
 </div>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MatheusInacio32&locale=pt-br&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" alt="Snake animation" />
