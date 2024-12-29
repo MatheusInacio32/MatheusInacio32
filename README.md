@@ -9,6 +9,8 @@ Sou apaixonado por aprendizado contínuo e adoro me desafiar com novas tecnologi
 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar de Maringá, com previsão de formatura em 2025.
 Estou empolgado para aplicar meus conhecimentos e crescer ainda mais como profissional! 💼
 
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
