@@ -31,7 +31,7 @@ Estou empolgado para aplicar meus conhecimentos e crescer ainda mais como profis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
 </div>
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 2px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio32&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" style="width: 20vw; height: auto;" alt="Linguagens Mais Usadas" />
