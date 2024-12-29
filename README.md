@@ -3,7 +3,9 @@
 Sou um desenvolvedor Full Stack com experiência em criar soluções digitais inovadoras. 🚀
 
 Atuo como freelancer na Agência Astro, desenvolvendo interfaces dinâmicas e soluções escaláveis. Minha principal stack inclui React, Nest.js, e práticas modernas de UX Design 💡
+
 Sou apaixonado por aprendizado contínuo e adoro me desafiar com novas tecnologias e tendências do mercado de desenvolvimento web.
+
 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar de Maringá, com previsão de formatura em 2025.
 Estou empolgado para aplicar meus conhecimentos e crescer ainda mais como profissional! 💼
 
