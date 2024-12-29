@@ -1,4 +1,4 @@
-Aqui está uma versão mais profissional da sua bio para o GitHub, com a inclusão dos ícones de LinkedIn, e-mail e Discord:
+Aqui está sua bio atualizada com os ícones no estilo que você mencionou:
 
 ---
 
@@ -13,7 +13,9 @@ Estou sempre em busca de aprendizado contínuo e adoro me desafiar com novas tec
 Cursando **Análise e Desenvolvimento de Sistemas** na **Unicesumar de Maringá**, com previsão de formatura em 2025.  
 Estou motivado a aplicar meus conhecimentos e crescer continuamente como profissional! 💼  
 
- 
+---
+
+## 🚀 Tecnologias e Ferramentas  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -36,7 +38,7 @@ Estou motivado a aplicar meus conhecimentos e crescer continuamente como profiss
 
 ---
 
-## 📊 Stats  
+## 📊 Estatísticas  
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio32&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=true&order=2" style="width: 20vw; height: auto;" alt="Linguagens Mais Usadas" />
   <img src="https://streak-stats.demolab.com?user=MatheusInacio32&locale=pt-br&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5" style="width: 28vw; height: auto;" alt="streak graph" />
@@ -45,15 +47,15 @@ Estou motivado a aplicar meus conhecimentos e crescer continuamente como profiss
 ---
 
 ## 📞 Contato  
-<div align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+<div align="left">
+  <a href="https://discord.com/users/559031886148534282" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="mailto:mateusinacio32@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="E-mail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://discord.com/users/559031886148534282" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="40" alt="Discord" />
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>  
 
@@ -63,10 +65,3 @@ Estou motivado a aplicar meus conhecimentos e crescer continuamente como profiss
 <img src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" alt="Snake animation" />
 
 ---
-
-### Alterações:
-1. **Profissionalização do texto**: Adicionei palavras mais formais e objetivos claros.
-2. **Ícones de contato**: Incluí links com ícones do LinkedIn, e-mail e Discord.
-3. **Layout claro e organizado**: Usei divisões claras e centralizadas para facilitar a leitura.
-
-Se precisar de mais alterações, é só avisar!
