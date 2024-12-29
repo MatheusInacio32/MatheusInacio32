@@ -43,10 +43,7 @@ Estou motivado a aplicar meus conhecimentos e crescer continuamente como profiss
 
 ---
 
-
----
-
-## 📊 Estatísticas  
+*📊 Estatísticas*  
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio32&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=vision-friendly-dark&hide_border=true&order=2" style="width: 20vw; height: auto;" alt="Linguagens Mais Usadas" />
   <img src="https://streak-stats.demolab.com?user=MatheusInacio32&locale=pt-br&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5" style="width: 28vw; height: auto;" alt="streak graph" />
