@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
 </div>
 
--- Olá, Eu sou o Matheus Inácio! 👋
+** Olá, Eu sou o Matheus Inácio! 👋 **
 
 Sou um desenvolvedor **Full Stack** especializado em criar soluções digitais inovadoras e escaláveis. 🚀  
 Atuo como freelancer na **Agência Astro**, desenvolvendo interfaces dinâmicas e experiências de usuário modernas. Minha stack principal inclui **React**, **Nest.js**, e práticas avançadas de **UX Design**. 💡  
