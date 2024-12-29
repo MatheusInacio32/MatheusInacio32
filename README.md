@@ -21,12 +21,8 @@
 # Olá, Eu sou o Matheus Inácio! 👋
 Sou um desenvolvedor **Full Stack** especializado em criar soluções digitais inovadoras e escaláveis. 🚀  
 Atuo como freelancer na **Agência Astro**, desenvolvendo interfaces dinâmicas e experiências de usuário modernas. Minha stack principal inclui **React**, **Nest.js**, e práticas avançadas de **UX Design**. 💡  
-
-Estou sempre em busca de aprendizado contínuo e adoro me desafiar com novas tecnologias e tendências do mercado de desenvolvimento web.  
-
-🎓 **Formação Acadêmica:**  
-Cursando **Análise e Desenvolvimento de Sistemas** na **Unicesumar de Maringá**, com previsão de formatura em 2025.  
-Estou motivado a aplicar meus conhecimentos e crescer continuamente como profissional! 💼  
+Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Unicesumar de Maringá**, com previsão de formatura em 2025.  
+Estou sempre em busca de aprendizado contínuo e adoro me desafiar com novas tecnologias e tendências do mercado de desenvolvimento web! 💼  
 
 <div align="left">
   <a href="https://discord.com/users/559031886148534282" target="_blank">
