@@ -1,10 +1,8 @@
 <div align="center">
-Matheus Inácio
 
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&amp;weight=700&amp;size=32&amp;duration=3000&amp;pause=1000&amp;color=FB8C00&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Front+End+Developer;React+|+Next.js+|+TypeScript;UI/UX+Enthusiast">
-<img alt="Tech Stack" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,bootstrap,html,css">
+<img alt="Tech Stack" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,bootstrap,tailwind,css,npm">
 </div> <br>
-⚡ Sobre
 <br> <div align="center">
 🔧 Stack
 <img alt="Front End" src="https://img.shields.io/badge/-FRONT_END-FB8C00?style=for-the-badge">
