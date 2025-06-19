@@ -1,55 +1,31 @@
+<div align="center">
 Matheus Inácio
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Front+End+Developer;UI%2FUX+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&amp;weight=700&amp;size=32&amp;duration=3000&amp;pause=1000&amp;color=FB8C00&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Front+End+Developer;React+|+Next.js+|+TypeScript;UI/UX+Enthusiast">
+<img alt="Tech Stack" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,bootstrap,html,css">
+</div> <div align="center">
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MatheusInacio32&amp;hide=stars&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github&amp;ring_color=FB8C00&amp;text_color=ffffff&amp;icon_color=FB8C00&amp;title_color=FB8C00&amp;custom_title=Contribuições">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusInacio32&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=FB8C00&amp;text_color=ffffff">
 </div>
-
+⚡ Sobre
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,bootstrap,php,html,css" alt="Tech Stack" />
-</div>
+🔧 Stack
+<img alt="Front End" src="https://img.shields.io/badge/-FRONT_END-FB8C00?style=for-the-badge">
+<img alt="Back End" src="https://img.shields.io/badge/-BACK_END-6200EA?style=for-the-badge">
+<img alt="Tools" src="https://img.shields.io/badge/-TOOLS-00BFA5?style=for-the-badge">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
+<img alt="Nest.js" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white">
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&amp;logo=cloud&amp;logoColor=white">
+<img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+</div> <div align="center">
 
-## 💫 Sobre
-
-```typescript
-const dev = {
-  nome: "Matheus Inácio",
-  função: "Desenvolvedor Front End",
-  empresa: "Agência Astro (Freelancer)",
-  educação: "Análise e Desenvolvimento de Sistemas (2025)",
-  foco: ["React", "Next.js", "Nest.js", "UX Design"],
-  busco: "Projetos desafiadores e inovação contínua"
-};
-```
-
-Especializado na criação de interfaces dinâmicas e experiências de usuário modernas, transformando conceitos em código de alta qualidade. Sempre em busca de aprendizado contínuo e novas tecnologias.
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  
-| Front End | Back End | Ferramentas |
-|-----------|----------|------------|
-| React | Nest.js | Git |
-| Next.js | PHP | VS Code |
-| TypeScript | REST APIs | Figma |
-| Bootstrap | | Docker |
-
-</div>
-
-## 📈 Métricas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusInacio32&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true" width="320px" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com?user=MatheusInacio32&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" width="420px" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusInacio32&theme=discord&no-frame=true&no-bg=true&row=1&column=6" width="700px" alt="GitHub Trophies" />
-</div>
-
-<img src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatheusInacio32&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MatheusInacio32&amp;theme=dark&amp;hide_border=true&amp;border_radius=20&amp;fire=FB8C00&amp;ring=FB8C00&amp;currStreakNum=FB8C00&amp;sideNums=FB8C00&amp;currStreakLabel=FB8C00&amp;sideLabels=FB8C00&amp;dates=DDDDDD">
+</div> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/github-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" /> </picture> <div align="center"> <img src="https://komarev.com/ghpvc/?username=MatheusInacio32&style=for-the-badge&color=FB8C00" alt="Profile Views" /> </div>
