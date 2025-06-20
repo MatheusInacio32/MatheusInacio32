@@ -10,7 +10,7 @@
 
 <!-- Descrição concisa e moderna -->
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 16px; margin: 20px 0;">
-  Transformando ideias em experiências digitais com código limpo e design intuitivo.
+  Transforming ideas into digital experiences with clean code and intuitive design.
 </p>
 
 <img alt="Tech Stack" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,bootstrap,tailwind,css,npm">
@@ -29,7 +29,7 @@
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MatheusInacio32&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=15">
 </div> <br> <div align="center"> <img src="https://raw.githubusercontent.com/MatheusInacio32/MatheusInacio32/output/snake.svg" alt="Snake animation" width="100%"/> </div> <br>
 
-<!-- Separador elegante inferior -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer&text=&fontSize=90" width="100%"/>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=MatheusInacio32&style=for-the-badge&color=7B68EE" alt="Profile Views" /> 
