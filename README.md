@@ -23,7 +23,6 @@
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusInacio32&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=7B68EE&amp;text_color=ffffff">
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatheusInacio32&theme=dark)
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MatheusInacio32&amp;theme=dark&amp;hide_border=true&amp;border_radius=20&amp;fire=7B68EE&amp;ring=7B68EE&amp;currStreakNum=7B68EE&amp;sideNums=7B68EE&amp;currStreakLabel=7B68EE&amp;sideLabels=7B68EE&amp;dates=DDDDDD">
 <br>
 
